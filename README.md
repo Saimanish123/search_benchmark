@@ -1,6 +1,6 @@
 # Search Algorithm Benchmarking Tool
 
-Welcome to the Search Algorithm Benchmarking Tool—a comprehensive platform I built for the DSE 3241 Principles of Artificial Intelligence course. 
+Welcome to the Search Algorithm Benchmarking Tool.
 
 This isn't just a toy implementation of A*. It's a full-stack, highly instrumented testbed for classical search algorithms. It lets you run head-to-head performance benchmarks, evaluate the mathematical properties of custom heuristics, and even uses a meta-agent to dynamically select the optimal search strategy based on real-world constraints like memory limits and required optimality.
 
