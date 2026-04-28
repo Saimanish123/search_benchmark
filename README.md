@@ -12,7 +12,7 @@ The project supports two distinct, dynamically generated problem spaces:
 - **Grid Mazes:** Built on top of NumPy arrays for performance, the grid environment supports adjustable wall densities, 4-way (cardinal) or 8-way (diagonal) movement, and guaranteed solvability checks during generation.
 
 ### 2. The Search Algorithms
-I've implemented the five pillars of classical search:
+We've implemented the five pillars of classical search:
 - **Breadth-First Search (BFS)**
 - **Depth-First Search (DFS)**
 - **Uniform-Cost Search (UCS)**
